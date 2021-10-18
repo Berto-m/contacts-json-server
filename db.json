@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "4aada039-9a9a-4212-8bae-6bc57e18daf8",
+      "name": "Steve Medina",
+      "email": "steve@pm.me"
+    },
+    {
+      "id": "a619acf6-2d30-4bb4-a818-4437bc170375",
+      "name": "Tom Neys",
+      "email": "tom@pm.me"
+    },
+    {
+      "id": "22de7c4d-bcad-4bc4-988a-1d6e63b2f97c",
+      "name": "Jeorge Smith",
+      "email": "jeorge@pm.me"
+    },
+    {
+      "id": "115538e3-eb5d-4a8a-8156-143c2b43bb09",
+      "name": "Jeff Adams",
+      "email": "jeff@gmail.com"
+    }
+  ]
+}
